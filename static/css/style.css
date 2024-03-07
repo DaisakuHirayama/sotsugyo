@@ -9,6 +9,7 @@ body {
     box-sizing: border-box;
 }
 
+/* ヘッダー */
 .header{
 
     display: flex;
@@ -37,3 +38,17 @@ header {
     text-align: center;
   }
 
+  /* 写真 サイズはこれから調整*/
+  
+  #sec1 {
+    background-image: url("/卒業制作img/sashimi01.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 400px;
+    background-size: cover;
+}
+/* 見ずらいのでとりあえず色付けています。 */
+#sec1 h1 {
+    color: #fff;
+
+}
