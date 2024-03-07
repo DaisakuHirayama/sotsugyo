@@ -40,7 +40,7 @@ header {
 
   /* 写真 サイズはこれから調整*/
   
-  #sec1 {
+#sec1 {
     background-image: url("/卒業制作img/sashimi01.jpg");
     background-repeat: no-repeat;
     background-position: center center;
